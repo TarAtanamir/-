@@ -1,0 +1,4 @@
+print ("hello world");
+print ("Hello everibody");
+print ("Hello");
+print ("Hello my dear friend");
